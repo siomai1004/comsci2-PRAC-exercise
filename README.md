@@ -16,6 +16,7 @@ num
 
 ## Sample output:
 Enter a number: 67
+
 67 is odd
 
 ## Author:
