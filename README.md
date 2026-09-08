@@ -6,6 +6,7 @@ A program that tells you whether a number is odd or even
 
 ## How to run the program:
 Open the .ipynb
+
 Enter an input and wait for the result
 
 ## Input needed:
