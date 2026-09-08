@@ -8,7 +8,7 @@ A program that tells you whether a number is odd or even
 Open the .ipynb
 Enter an input and wait for the result
 
-## Inputs needed:
+## Input needed:
 Integer
 
 ## Sample output:
