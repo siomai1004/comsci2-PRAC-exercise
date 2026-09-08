@@ -5,16 +5,20 @@
 A program that tells you whether a number is odd or even
 
 ## How to run the program:
-Open the .ipynb
+1. Open the file in VS Code, Replit, or Google Colab
+2. Run the program
+3. Enter the value for the variable num
+4. Check whether the number is even or odd
 
 Enter an input and wait for the result
 
 ## Input needed:
-Integer
+num 
 
 ## Sample output:
 Enter a number: 67
 67 is odd
 
 ## Author:
-Siobhan Domenique C. Acuna & Gaebrielle Mialouise E. Magadia
+Name: Siobhan Domenique C. Acuna & Gaebrielle Mialouise E. Magadia
+Section: 8 - Jasmine
