@@ -10,7 +10,6 @@ A program that tells you whether a number is odd or even
 3. Enter the value for the variable num
 4. Check whether the number is even or odd
 
-Enter an input and wait for the result
 
 ## Input needed:
 num 
