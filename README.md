@@ -1,6 +1,7 @@
 # comsci2-PRAC-exercise
 ## SG 5 Practice Exercise
 
+## Description:
 A program that tells you whether a number is odd or even
 
 ## How to run the program:
